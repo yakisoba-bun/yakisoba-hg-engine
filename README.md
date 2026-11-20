@@ -133,7 +133,7 @@ to get the latest development changes from upstream. This approach requires a li
 4. Run the following commands in Terminal/WSL, replacing `[YOUR-USERNAME]` with your GitHub username:
 ```
 mkdir -p ~/git && cd ~/git
-git clone --recursive https://github.com/yakisoba-bun/hg-engine.git
+git clone --recursive https://github.com/yakisoba-bun/yakisoba-hg-engine.git
 cd hg-engine
 ```
 5. Add `BluRosie/hg-engine` as an `upstream` source so you can pull changes
